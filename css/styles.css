@@ -3,7 +3,7 @@ body {
     flex-wrap: wrap;              /* перенос на новые ряды */
     justify-content: center;      /* выравнивание по центру */
     gap: 20px;                    /* расстояние между кнопками */
-    max-width: 700px;             /* ограничиваем ширину блока */
+    max-width: 701px;             /* ограничиваем ширину блока */
     padding: 20px;
     background-color: white;
     border-radius: 12px;
